@@ -6,7 +6,7 @@
 <img align="left" width="460" src="media/entrer_fonderie_darling.jpg">
 
 Oeuvre d'exposition itinérante <br>
-Visité le 31 Janvier 2024
+Visité le 31 Janvier 2024 <br>
 
 
 # Phase Shifting Index
