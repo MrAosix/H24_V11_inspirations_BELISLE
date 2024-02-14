@@ -1,8 +1,8 @@
 # Phase Shifting Index Par Jeremy Shaw
 <img align="left" width="500" height="500" src="media/brochure_complete.jpg">
 
-<p align="right"> ## Fonderie Darling </p>
-<p align="right">745 Rue Ottawa, Montréal, Quebec</p>
+## <p align="right">Fonderie Darling</p>
+<p align="right" left=100px>745 Rue Ottawa, Montréal, Quebec</p>
 <img align="left" width="470" src="media/entrer_fonderie_darling.jpg">
 
 Oeuvre d'exposition itinérante <br>
