@@ -15,4 +15,6 @@ Visité le 31 Janvier 2024 <br>
 Oeuvre créée au Centre Pompidou à Paris, France en 2020
 
 <img align="left" width="410" src="media/jeremy_shaw.webp">
-[Sources](https://www.maxgoelitz.com/en/artists/67-jeremy-shaw/)
+
+Photo prise par Alex De Brabent, site de galerie Max Goelitz
+(https://www.maxgoelitz.com/en/artists/67-jeremy-shaw/)
