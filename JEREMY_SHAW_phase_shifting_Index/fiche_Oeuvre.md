@@ -1,5 +1,5 @@
 # Phase Shifting Index
-<img align="left" width="100" height="100" src="media/brochure_complete.jpg">
+<img align="left" width="600" height="600" src="media/brochure_complete.jpg">
 
 ## Fonderie Darling
 - lieu: 745 Rue Ottawa, Montréal, Quebec
