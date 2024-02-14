@@ -5,4 +5,5 @@
 745 Rue Ottawa, Montréal, Quebec
 <img align="left" width="400" src="media/entrer_fonderie_darling.jpg">
 
-  Oeuvre d'exposition itinérante
+
+Oeuvre d'exposition itinérante
