@@ -7,7 +7,7 @@
 
 Oeuvre d'exposition itinérante <br>
 Visité le 31 Janvier 2024 <br>
-
+<br>
 ----
 # Phase Shifting Index
 <img align="left" width="800" src="media/vue_ensemble_oeuvre.jpg">
