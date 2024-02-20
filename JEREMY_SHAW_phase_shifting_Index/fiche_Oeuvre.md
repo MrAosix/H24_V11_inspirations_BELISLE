@@ -37,6 +37,9 @@ déplacer. Les écrans sont placée symétriquement dans la pièce de la gauche 
 <img width="700" src="media/plan_exposition.jpg">
 
 ## Éléments et composantes nécessaires à l'exposition
+Tout les éléments électroniques, comme les fils, sont placés au plafond, pour qu'absolument rien ne sois visible sur le plancher
 <img width="300" src="media/installation_fils_plafond.jpg">
+Un projecteur et deux haut-parleurs sont placés devant chaque écrans. encore un fois installés au plafond
 <img width="400" src="media/installation_projecteur_volume.jpg">
+Les écrans sont installés aussi au plafond grâce aux fils presques invisibles qui les retiens
 <img width="400" src="media/installation_support_ecran.jpg">
