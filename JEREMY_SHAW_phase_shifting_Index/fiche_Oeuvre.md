@@ -37,6 +37,6 @@ déplacer. Les écrans sont placée symétriquement dans la pièce de la gauche 
 <img width="700" src="media/plan_exposition.jpg">
 
 ## Éléments et composantes nécessaires à l'exposition
-<img width="500" src="media/installation_fils_plafond.jpg">
-<img width="500" src="media/installation_projecteur_volume.jpg">
-<img width="500" src="media/installation_support_ecran.jpg">
+<img width="300" src="media/installation_fils_plafond.jpg">
+<img width="400" src="media/installation_projecteur_volume.jpg">
+<img width="400" src="media/installation_support_ecran.jpg">
