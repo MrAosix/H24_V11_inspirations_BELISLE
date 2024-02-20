@@ -47,6 +47,9 @@ Les écrans sont installés aussi au plafond grâce aux fils presques invisibles
 <img width="400" src="media/installation_support_ecran.jpg">
 
 # L'expérience
+Avant de rentrer dans la pièce, un guide est venue nous présentez l'artiste et rapidement l'oeuvre
+<img width="400" src="media/guide.jpg">
+<br>
 En rentrant dans la pièce, les gens peuvent s'assir sur un estrade fait en tapis qui est installé sur le mur arrière
 <img width="400" src="media/estrade.jpg">
 <br>
@@ -61,4 +64,6 @@ Après un petit temps, les écrans commencent à avoir un effet de glitch ou les
 <br>
 À la fin, on ne voit plus les personnages, car ceux-ci deviennent une sorte de galaxie rempli de couleur, ressemblent un peu a de l'ADN
 <img width="400" src="media/ecran_phase_04.jpg">
-
+<img width="400" src="media/vue_ensemble_phase_04.jpg">
+<br>
+Tout cela pour ensuite revenir au début où les personnages recommencent à danser.
