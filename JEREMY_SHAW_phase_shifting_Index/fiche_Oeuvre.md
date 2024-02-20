@@ -37,7 +37,7 @@ déplacer. Les écrans sont placée symétriquement dans la pièce de la gauche 
 <img width="700" src="media/plan_exposition.jpg">
 
 ## Éléments et composantes nécessaires à l'exposition
-Des écrans minces sont placés dans la pièce où des projecteur projete l'oeuvre directement dessus pour que les visiteurs peuvent voir
+Des écrans minces sont placés dans la pièce où des projecteur projetent l'oeuvre directement dessus pour que les visiteurs peuvent voir
 <img width="500" src="media/installation_arriere_ecran.jpg">
 <br>
 Les écrans sont installés aussi au plafond grâce aux fils presques invisibles qui les retiens
