@@ -59,11 +59,16 @@ En commencent, les 7 écrans jouent des personnes différentes fesant aussi des 
 En attendant un peu, celles-ci deviennent de plus en plus rapides jusqu'à ce qu'elles se mettent à faire la même danse partout
 <img width="400" src="media/ecran_phase_02.jpg">
 <br>
-Après un petit temps, les écrans commencent à avoir un effet de glitch ou les transitions se font avec les couleurs des écrans
+Après un petit temps, les écrans commencent à avoir un effet psychédélique ou les transitions se font avec les couleurs des écrans
 <img width="400" src="media/ecran_phase_03.jpg">
 <br>
 À la fin, on ne voit plus les personnages, car ceux-ci deviennent une sorte de galaxie rempli de couleur, ressemblent un peu a de l'ADN
 <img width="400" src="media/ecran_phase_04.jpg">
-<img width="400" src="media/vue_ensemble_phase_04.jpg">
 <br>
 Tout cela pour ensuite revenir au début où les personnages recommencent à danser.
+
+# Appréciation
+J'ai aimé l'évolution du début jusqu'à la fin de l'oeuvre, où on passe de quelque chose de simple (comme des personnes qui dansent) et quelque chose qu'on ne comprend pas à finir par un effet psychédélique bizarre coloré avec ensuite
+un semblant de galaxie et d'ADN, où l'on comprend mieux l'univers de l'oeuvre, qu'on pouvais difficilement comprendre en lisant seulement le texte. Je trouvant l'oeuvre très anodin au début, mais j'ai finis par comprendre et j'ai
+bien aimé la finale de l'exposition
+<img width="400" src="media/vue_ensemble_phase_04.jpg">
