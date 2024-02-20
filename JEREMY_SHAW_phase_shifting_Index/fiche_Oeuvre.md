@@ -25,13 +25,18 @@ Photo prise par Alex De Brabent, site de galerie Max Goelitz <br>
 <img width="650" src="media/presentation_exposition.jpg">
 <img width="310" src="media/cartel.jpg">
 
-### Installation immersive
+## Installation immersive
 <br>
 <img width="700" src="media/vue_ensemble_oeuvre_02.jpg">
 
-### Mise en espace / Plan
+## Mise en espace / Plan
 L'exposition est situé dans la fonderie darling, dans une pièce aménagé exprès pour cette exposition,
 la pièce est assez grande pour mettre 7 gros écrans et ayant quand même beaucoup d'espaces pour se
 déplacer. Les écrans sont placée symétriquement dans la pièce de la gauche à la droite et tout les écrans
 "flottent" dans la pièce, donnant l'illusion que celle-ci est plus grande
 <img width="700" src="media/plan_exposition.jpg">
+
+## Éléments et composantes nécessaires à l'exposition
+<img width="500" src="media/installation_fils_plafond.jpg">
+<img width="500" src="media/installation_projecteur_volume.jpg">
+<img width="500" src="media/installation_support_ecran.jpg">
