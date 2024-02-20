@@ -38,16 +38,16 @@ déplacer. Les écrans sont placée symétriquement dans la pièce de la gauche 
 
 ## Éléments et composantes nécessaires à l'exposition
 Des écrans minces sont placés dans la pièce où des projecteur projete l'oeuvre directement dessus pour que les visiteurs peuvent voir
-<img width="300" src="media/installation_arriere_ecran.jpg">
+<img width="500" src="media/installation_arriere_ecran.jpg">
 <br>
 Les écrans sont installés aussi au plafond grâce aux fils presques invisibles qui les retiens
 <img width="400" src="media/installation_support_ecran.jpg">
 <br>
 Tout les éléments électroniques, comme les fils, sont placés au plafond, pour qu'absolument rien ne sois visible sur le plancher
-<img width="300" src="media/installation_fils_plafond.jpg">
+<img width="400" src="media/installation_fils_plafond.jpg">
 <br>
 Un projecteur et deux haut-parleurs sont placés devant chaque écrans. encore un fois installés au plafond
-<img width="400" src="media/installation_projecteur_volume.jpg">
+<img width="500" src="media/installation_projecteur_volume.jpg">
 
 # L'expérience
 Avant de rentrer dans la pièce, un guide est venue nous présentez l'artiste et rapidement l'oeuvre
