@@ -1,5 +1,5 @@
 # Phase Shifting Index Par Jeremy Shaw
-<img align="left" width="500" height="500" src="media/brochure_complete.jpg">
+src="media/brochure_complete.jpg"
 
 ### <p align="left">Fonderie Darling</p>
 <p align="left">745 Rue Ottawa, Montréal, Quebec</p>
