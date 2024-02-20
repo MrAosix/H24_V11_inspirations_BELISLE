@@ -45,3 +45,5 @@ Un projecteur et deux haut-parleurs sont placés devant chaque écrans. encore u
 <br>
 Les écrans sont installés aussi au plafond grâce aux fils presques invisibles qui les retiens
 <img width="400" src="media/installation_support_ecran.jpg">
+
+# L'expérience
