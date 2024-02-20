@@ -73,3 +73,7 @@ un semblant de galaxie et d'ADN, où l'on comprend mieux l'univers de l'oeuvre, 
 bien aimé la finale de l'exposition
 <br>
 <img width="700" src="media/vue_ensemble_phase_04.jpg">
+<br>
+Cependant, étant une personne très manuel et aimant toucher et comprendre un peu tout, le manque d'intéractivité avec l'oeuvre l'a rendu moins amusante, car au final, on pouvait rester assis pendant 40 minutes
+et seulement regarder. Personnellement, je trouve que chaque oeuvre devrait avoir au moins un élément interactif pour incité les personnes à regarder et se personnifier sa propre expérience tout en les guidant.
+<img width="700" src="media/plancher_tapis.jpg">
