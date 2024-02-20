@@ -55,9 +55,10 @@ En commencent, les 7 écrans jouent des personnes différentes fesant aussi des 
 <br>
 En attendant un peu, celles-ci deviennent de plus en plus rapides jusqu'à ce qu'elles se mettent à faire la même danse partout
 <img width="400" src="media/ecran_phase_02.jpg">
+<br>
 Après un petit temps, les écrans commencent à avoir un effet de glitch ou les transitions se font avec les couleurs des écrans
 <img width="400" src="media/ecran_phase_03.jpg">
 <br>
 À la fin, on ne voit plus les personnages, car ceux-ci deviennent une sorte de galaxie rempli de couleur, ressemblent un peu a de l'ADN
 <img width="400" src="media/ecran_phase_04.jpg">
-<br>
+
