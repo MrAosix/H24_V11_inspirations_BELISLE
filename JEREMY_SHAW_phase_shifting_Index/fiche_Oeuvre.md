@@ -71,4 +71,5 @@ Tout cela pour ensuite revenir au début où les personnages recommencent à dan
 J'ai aimé l'évolution du début jusqu'à la fin de l'oeuvre, où on passe de quelque chose de simple (comme des personnes qui dansent) et quelque chose qu'on ne comprend pas à finir par un effet psychédélique bizarre coloré avec ensuite
 un semblant de galaxie et d'ADN, où l'on comprend mieux l'univers de l'oeuvre, qu'on pouvais difficilement comprendre en lisant seulement le texte. Je trouvant l'oeuvre très anodin au début, mais j'ai finis par comprendre et j'ai
 bien aimé la finale de l'exposition
-<img width="400" src="media/vue_ensemble_phase_04.jpg">
+<br>
+<img width="700" src="media/vue_ensemble_phase_04.jpg">
