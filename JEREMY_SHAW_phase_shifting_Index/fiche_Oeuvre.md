@@ -31,7 +31,7 @@ Photo prise par Alex De Brabent, site de galerie Max Goelitz <br>
 
 ### Mise en espace / Plan
 L'exposition est situé dans la fonderie darling, dans une pièce aménagé exprès pour cette exposition,
-la pièce est asser grande pour mettre 7 grosses écrans et ayant quand même beaucoup d'espaces pour se
-déplacer. Les écrans sont placée simétriquement dans la pièce pour avoir la même symetrie de la gauche
-à la droite. Tout les écrans "flottent" dans la pièce, donnant l'illusion que celle-ci est plus grande
+la pièce est assez grande pour mettre 7 gros écrans et ayant quand même beaucoup d'espaces pour se
+déplacer. Les écrans sont placée symétriquement dans la pièce de la gauche à la droite et tout les écrans
+"flottent" dans la pièce, donnant l'illusion que celle-ci est plus grande
 <img width="700" src="media/plan_exposition.jpg">
