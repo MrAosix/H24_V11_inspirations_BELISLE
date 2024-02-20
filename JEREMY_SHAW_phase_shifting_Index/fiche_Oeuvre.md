@@ -21,4 +21,7 @@ Photo prise par Alex De Brabent, site de galerie Max Goelitz <br>
 (https://www.maxgoelitz.com/en/artists/67-jeremy-shaw/)
 
 ### Description
-<img width="300" src="media/cartel.jpg">
+<img align="left" width="650" src="media/presentation_exposition.jpg">
+<img align="right" width="310" src="media/cartel.jpg">
+
+Installation immersive
