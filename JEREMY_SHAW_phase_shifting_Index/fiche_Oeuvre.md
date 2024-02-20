@@ -11,12 +11,14 @@ Visité le 31 Janvier 2024 <br>
 <br>
 
 # Phase Shifting Index
-<img width="560" src="media/vue_ensemble_oeuvre.jpg">
+<img width="800" src="media/vue_ensemble_oeuvre.jpg">
 
-### <p align="left">Jeremy Shaw</p>
+### Jeremy Shaw
 Oeuvre créée au Centre Pompidou à Paris, France en 2020
 
 <img width="410" src="media/jeremy_shaw.webp">
-
-Photo prise par Alex De Brabent, site de galerie Max Goelitz
+Photo prise par Alex De Brabent, site de galerie Max Goelitz <br>
 (https://www.maxgoelitz.com/en/artists/67-jeremy-shaw/)
+
+### Description
+<img width="300" src="media/cartel.jpg">
