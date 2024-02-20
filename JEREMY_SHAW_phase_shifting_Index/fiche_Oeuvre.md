@@ -48,22 +48,22 @@ Les écrans sont installés aussi au plafond grâce aux fils presques invisibles
 
 # L'expérience
 Avant de rentrer dans la pièce, un guide est venue nous présentez l'artiste et rapidement l'oeuvre
-<img width="400" src="media/guide.jpg">
+<img width="600" src="media/guide.jpg">
 <br>
 En rentrant dans la pièce, les gens peuvent s'assir sur un estrade fait en tapis qui est installé sur le mur arrière
-<img width="400" src="media/estrade.jpg">
+<img width="600" src="media/estrade.jpg">
 <br>
 En commencent, les 7 écrans jouent des personnes différentes fesant aussi des danses bizarres différentes des autres
-<img width="400" src="media/ecran_phase_01.jpg">
+<img width="600" src="media/ecran_phase_01.jpg">
 <br>
 En attendant un peu, celles-ci deviennent de plus en plus rapides jusqu'à ce qu'elles se mettent à faire la même danse partout
-<img width="400" src="media/ecran_phase_02.jpg">
+<img width="600" src="media/ecran_phase_02.jpg">
 <br>
 Après un petit temps, les écrans commencent à avoir un effet psychédélique ou les transitions se font avec les couleurs des écrans
-<img width="400" src="media/ecran_phase_03.jpg">
+<img width="600" src="media/ecran_phase_03.jpg">
 <br>
 À la fin, on ne voit plus les personnages, car ceux-ci deviennent une sorte de galaxie rempli de couleur, ressemblent un peu a de l'ADN
-<img width="400" src="media/ecran_phase_04.jpg">
+<img width="600" src="media/ecran_phase_04.jpg">
 <br>
 Tout cela pour ensuite revenir au début où les personnages recommencent à danser.
 
