@@ -29,5 +29,5 @@ Nicolas St-Martin <br>
 Antoine Dion
 
 ## Description
-| <img src="media/kigo_vue_ensemble2.JPG" width="800"> |  |
-|---------------------------------------------------------|-----------------------------------|
+| <img src="media/kigo_vue_ensemble2.JPG" width="2000"> <img src="media/kigo_vue_ensemble2.JPG" width="2000">  | Kigo est un jeu interactif où le joueur doit éviter plusieurs obstacles dans un monde inspiré du style visuel néon rétro, avec une esthétique changeante pour refléter les quatre saisons. |
+|------------------------------------------------------|---------------------|
