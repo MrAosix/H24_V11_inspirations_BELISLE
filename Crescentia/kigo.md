@@ -19,4 +19,8 @@ Crescentia est une exposition de type temporaire intérieure. On a fait la Visit
 <img src="media/kigo_vue_ensemble.JPG" width="800"> |
 
 ## L'équipe
-Érick Ouellette, William Rathier Mailly, Gabriel Clerval, Nicolas St-Martin, Antoine Dion
+Érick Ouellette <br>
+William Rathier Mailly <br>
+Gabriel Clerval <br>
+Nicolas St-Martin <br>
+Antoine Dion
