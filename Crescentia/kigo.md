@@ -12,7 +12,7 @@ Vidéo/Photo prise du site [TIM Montmorency](https://tim-montmorency.com/2024/)
 <br>
 
 # Type d'exposition
-Crescentia est une exposition de type temporaire intérieure. On a fait la Visite le 21 Février et 13 Mars 
+"Crescentia" est une exposition de type temporaire intérieure. On a fait la Visite le 21 Février et 13 Mars 
 
 <br>
 
@@ -20,9 +20,10 @@ Crescentia est une exposition de type temporaire intérieure. On a fait la Visit
 <img src="media/kigo_vue_ensemble.JPG" width="800"> |
 
 ## L'équipe
+Le projet "Kigo" à été conçu en 2024 par: <br>
+<br>
 Érick Ouellette <br>
 William Rathier Mailly <br>
 Gabriel Clerval <br>
 Nicolas St-Martin <br>
 Antoine Dion
-2024
