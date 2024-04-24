@@ -11,3 +11,6 @@
 
 | Kigo | --photo |
 |------|---------|
+
+
+![Test](media/bannière_crescentia.PNG)
