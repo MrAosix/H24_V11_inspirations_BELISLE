@@ -1,7 +1,7 @@
 
 # Crescentia
 
-[<img src="media/bannière_crescentia.PNG">](https://www.youtube.com/watch?v=nncfZgBY7xY)
+[![](media/bannière_crescentia.PNG)](https://www.youtube.com/watch?v=nncfZgBY7xY)
 
 | --photo  | Grand studio, Collège Montmorency |
 |----------|-----------------------------------|
@@ -12,5 +12,3 @@
 | Kigo | --photo |
 |------|---------|
 
-
-![Test](/media/bannière_crescentia.PNG)
