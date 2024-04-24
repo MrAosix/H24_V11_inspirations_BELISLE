@@ -5,13 +5,13 @@ Vidéo/Photo prise du site [TIM Montmorency](https://tim-montmorency.com/2024/)
 
 <br>
 
-# Lieu
-| <img src="media/grand_studio_ensemble.JPG" width="800"> | Grand studio, Collège Montmorency |
+## Lieu
+| <img src="media/grand_studio_ensemble.JPG" width="600"> | Grand studio, Collège Montmorency |
 |---------------------------------------------------------|-----------------------------------|
 
 <br>
 
-# Type d'exposition
+## Type d'exposition
 "Crescentia" est une exposition de type temporaire intérieure. On a fait la Visite le 21 Février et 13 Mars 
 
 <br>
@@ -27,3 +27,7 @@ William Rathier Mailly <br>
 Gabriel Clerval <br>
 Nicolas St-Martin <br>
 Antoine Dion
+
+## Description
+| <img src="media/kigo_vue_ensemble2.JPG" width="800"> |  |
+|---------------------------------------------------------|-----------------------------------|
