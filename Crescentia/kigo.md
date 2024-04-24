@@ -46,4 +46,6 @@ Kigo est une installation interactive où les participants interagissent avec le
 <br>
 
 ## Mise en espace
+La disposition de l'œuvre est relativement simple. Il y a une zone de jeu où le joueur se positionne, et celui-ci est capté par la Kinect, le connectant ainsi au jeu grâce à l'ordinateur qui relie tous les systèmes ensemble. Le jeu est projeté sur le mur par un projecteur monté au plafond, et il est accompagné de sons diffusés par des haut-parleurs suspendus également au plafond.
+
 <img src="media/kigo_plan.png" width="1100"> |
