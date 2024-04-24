@@ -19,6 +19,8 @@ Vidéo/Photo prise du site [TIM Montmorency](https://tim-montmorency.com/2024/)
 # Kigo
 <img src="media/kigo_vue_ensemble.JPG" width="800"> |
 
+<br>
+
 ## L'équipe
 Le projet "Kigo" à été conçu en 2024 par: <br>
 <br>
@@ -27,6 +29,8 @@ William Rathier Mailly <br>
 Gabriel Clerval <br>
 Nicolas St-Martin <br>
 Antoine Dion
+
+<br>
 
 ## Description
 | <img src="media/kigo_vue_ensemble2.JPG" width="1000"> <img src="media/kigo_vue_ensemble3.JPG" width="1000">  | Kigo est un jeu interactif où le joueur doit éviter plusieurs obstacles dans un monde inspiré du style visuel néon rétro, avec une esthétique changeante pour refléter les quatre saisons. |
