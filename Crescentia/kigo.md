@@ -34,7 +34,7 @@ Antoine Dion
 
 <br>
 
-## Description
+## Type d'installation
 Kigo est une installation interactive où les participants interagissent avec le monde du jeu en tentant d'éviter des obstacles. Le mouvement des participants est capturé à l'aide d'une technologie vidéo, ce qui rend l'œuvre interactive.
 
 [![](media/kigo_experience.PNG)](https://www.youtube.com/watch?v=QHVQL7Vt-b4)
