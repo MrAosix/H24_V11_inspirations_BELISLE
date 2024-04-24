@@ -32,4 +32,4 @@ Antoine Dion
 | <img src="media/kigo_vue_ensemble2.JPG" width="1000"> <img src="media/kigo_vue_ensemble3.JPG" width="1000">  | Kigo est un jeu interactif où le joueur doit éviter plusieurs obstacles dans un monde inspiré du style visuel néon rétro, avec une esthétique changeante pour refléter les quatre saisons. |
 |------------------------------------------------------|---------------------|
 
-[![](media/kigo_Experience.JPG)](https://www.youtube.com/watch?v=QHVQL7Vt-b4)
+[![](media/kigo_experience.PNG)](https://www.youtube.com/watch?v=QHVQL7Vt-b4)
