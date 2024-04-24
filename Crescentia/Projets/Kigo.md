@@ -2,7 +2,7 @@
 # Crescentia
 -- photo
 
-[Bannière](https://www.youtube.com/watch?v=nncfZgBY7xY)
+[](https://www.youtube.com/watch?v=nncfZgBY7xY)
 
 | --photo  | Grand studio, Collège Montmorency |
 |----------|-----------------------------------|
