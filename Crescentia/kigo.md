@@ -54,6 +54,12 @@ La disposition de l'œuvre est relativement simple. Il y a une zone de jeu où l
 
 ## Composantes et techniques
 
+<img src="media/kigo_technique4.JPG" width="400"> 
+<img src="media/kigo_technique2.JPG" width="400">
+<img src="media/kigo_technique5.JPG" width="400"> 
+<img src="media/kigo__technique.JPG" width="400"> 
+<img src="media/kigo_vue_ensemble2.JPG" width="400"> 
+
 <br>
 
 ## Éléments de la mise en exposition
