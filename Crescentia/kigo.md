@@ -81,7 +81,7 @@ Bien que cela puisse sembler anodin, le collège a été d'une aide précieuse p
 <br>
 
 ## Expérience vécue
-Comme vue un peu plus haut, le public fait une grande partie de cette exposition, donnant vie au projet grâce a l'intéraction. Le joueur essaye difficilement au début d'esquiver les obstacles, mais avec le temps, le joueur deviens meilleur et la réussite donc croite énormément avec la pratique. Rendu l'expérience agréable et donne un effet d'acomplissement au joueur.
+Comme mentionné précédemment, le public joue un rôle crucial dans cette exposition, donnant vie au projet grâce à son interaction. Au début, le joueur peut éprouver des difficultés à esquiver les obstacles, mais avec le temps, il s'améliore et sa réussite augmente considérablement grâce à la pratique. Cela rend l'expérience agréable et procure un sentiment d'accomplissement au joueur.
 
 [![](media/kigo_experience.PNG)](https://www.youtube.com/watch?v=QHVQL7Vt-b4)
 
