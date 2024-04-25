@@ -88,6 +88,7 @@ Comme mentionné précédemment, le public joue un rôle crucial dans cette expo
 <br>
 
 # Appréciation
+Pour être franc, je n'ai que des éloges à formuler à l'égard de Kigo. De bout en bout, cette œuvre est captivante grâce à son impressionnante interactivité, et elle nous pousse même à repousser nos limites pour figurer en haut du classement. Elle offre une rejouabilité infinie et procure toujours un sentiment d'accomplissement lorsque l'on bat son propre record. De plus, elle évoque habilement "Crescentia" par le biais de la progression de la force du joueur dans ce jeu interactif. Visuellement simple, le jeu est cependant d'une grande beauté et d'une efficacité indéniable.
 
 
 
