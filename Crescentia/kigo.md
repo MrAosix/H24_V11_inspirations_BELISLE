@@ -81,6 +81,9 @@ Bien que cela puisse sembler anodin, le collège a été d'une aide précieuse p
 <br>
 
 ## Expérience vécue
+Comme vue un peu plus haut, le public fait une grande partie de cette exposition, donnant vie au projet grâce a l'intéraction. Le joueur essaye difficilement au début d'esquiver les obstacles, mais avec le temps, le joueur deviens meilleur et la réussite donc croite énormément avec la pratique. Rendu l'expérience agréable et donne un effet d'acomplissement au joueur.
+
+[![](media/kigo_experience.PNG)](https://www.youtube.com/watch?v=QHVQL7Vt-b4)
 
 <br>
 
