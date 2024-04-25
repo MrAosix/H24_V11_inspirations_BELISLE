@@ -54,11 +54,21 @@ La disposition de l'œuvre est relativement simple. Il y a une zone de jeu où l
 
 ## Composantes et techniques
 
-<img src="media/kigo_technique4.JPG" width="400"> 
-<img src="media/kigo_technique2.JPG" width="400">
-<img src="media/kigo_technique5.JPG" width="400"> 
-<img src="media/kigo__technique.JPG" width="400"> 
-<img src="media/kigo_vue_ensemble2.JPG" width="400"> 
+| <img src="media/kigo_technique4.JPG" width="1500"> | Pour débuter, l'équipe a opté pour l'utilisation d'un ruban adhésif orange très visible sur le sol afin de faciliter la délimitation de la zone de jeu, permettant ainsi une meilleure visibilité. Cela garantit également une position optimale pour le joueur. |
+|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| <img src="media/kigo_technique2.JPG" width="1300"> | Ensuite, un capteur Kinect est positionné au sol, orienté vers la zone de jeu, pour capturer aisément les mouvements du joueur. |
+|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+
+| <img src="media/kigo_technique5.JPG" width="1700"> | Sur l'interface du jeu, une zone située en bas de l'écran indique la détection des joueurs, assurant ainsi que le joueur est correctement positionné et bien détecté par le Kinect. |
+|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| <img src="media/kigo__technique.JPG" width="1400"> | Tous les composants du jeu ainsi que les dispositifs essentiels sont connectés à deux ordinateurs, chargés de superviser le bon déroulement de l'exposition. |
+|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| <img src="media/kigo_vue_ensemble2.JPG" width="1400"> | Enfin, un projecteur, stratégiquement installé au plafond, projette l'image du jeu sur le mur du studio. Ce projecteur est également relié à l'ordinateur. |
+|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 
 <br>
 
