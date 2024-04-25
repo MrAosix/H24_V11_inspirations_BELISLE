@@ -50,6 +50,8 @@ La disposition de l'œuvre est relativement simple. Il y a une zone de jeu où l
 
 <img src="media/kigo_plan.png" width="1100"> 
 
+Photo prise du site [TIM Montmorency](https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html)
+
 <br>
 
 ## Composantes et techniques
@@ -68,7 +70,6 @@ La disposition de l'œuvre est relativement simple. Il y a une zone de jeu où l
 
 | <img src="media/kigo_vue_ensemble2.JPG" width="1200"> | Enfin, un projecteur, stratégiquement installé au plafond, projette l'image du jeu sur le mur du studio. Ce projecteur est également relié à l'ordinateur. |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-
 
 <br>
 
