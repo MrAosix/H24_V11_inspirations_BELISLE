@@ -65,7 +65,12 @@ Photo du plan prise sur le site [TIM Montmorency](https://tim-montmorency.com/20
 
 # 4 - Rhizomatique
 -- lien avec croissance
--- image
+
+<br>
+
+<img src="media/rhizomatique_vue_ensemble2.JPG">
+
+<br>
 
 ## Équipe
 Julyanne Desjardins <br>
@@ -73,9 +78,16 @@ Maika Désu <br>
 Laurie Houde <br>
 Felix Testa Radovanovic
 
+<br>
+
 ## L'installation
---photo installation
---photo plan + source
+
+| <img src="media/rhizomatique_vue_ensemble.JPG" width="600px"> | <img src="media/rhizomatique_plan.png" width="500px"> |
+|--------------------------------------------------------------------|-----------------------------------------------------------|
+
+Photo du plan prise sur le site [TIM Montmorency](https://tim-montmorency.com/2024/projets/Rhizomatique/docs/web/preproduction.html)
+
+<br>
 
 ## Expérience
 -- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
