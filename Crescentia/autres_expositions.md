@@ -8,6 +8,10 @@ Maika Désu <br>
 Laurie Houde <br>
 Felix Testa Radovanovic
 
+## L'installation
+--photo installation
+--photo plan + source
+
 <br>
 
 # Effet-Papillon
@@ -22,6 +26,10 @@ Alexia (Ryan) Papanikolaou <br>
 Viktor Zhuravlev <br>
 Jasmine Lapierre
 
+## L'installation
+--photo installation
+--photo plan + source
+
 <br>
 
 # Sonalux
@@ -33,6 +41,10 @@ Antoine Haddad <br>
 Camélie Laprise <br>
 Ghita Alaoui <br>
 Vincent Desjardins
+
+## L'installation
+--photo installation
+--photo plan + source
 
 <br>
 
@@ -46,3 +58,7 @@ Jacob Alarie-Brousseau <br>
 Jérémy Cholette <br>
 Quoc Huy Do <br>
 Mikael Tourangeau
+
+## L'installation
+--photo installation
+--photo plan + source
