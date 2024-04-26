@@ -1,6 +1,6 @@
 # 2 - Canevas Cosmique
 -- lien avec croissance
--- image
+<img src="/media/"canevas_cosmique_vue_ensemble.JPG>
 
 ## Équipe
 Jacob Alarie-Brousseau <br>
