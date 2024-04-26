@@ -12,6 +12,9 @@ Felix Testa Radovanovic
 --photo installation
 --photo plan + source
 
+## Expérience
+-- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
+
 <br>
 
 # Effet-Papillon
@@ -30,6 +33,9 @@ Jasmine Lapierre
 --photo installation
 --photo plan + source
 
+## Expérience
+-- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
+
 <br>
 
 # Sonalux
@@ -45,6 +51,9 @@ Vincent Desjardins
 ## L'installation
 --photo installation
 --photo plan + source
+
+## Expérience
+-- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
 
 <br>
 
@@ -62,3 +71,6 @@ Mikael Tourangeau
 ## L'installation
 --photo installation
 --photo plan + source
+
+## Expérience
+-- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
