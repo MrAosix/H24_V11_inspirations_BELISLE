@@ -1,6 +1,9 @@
 # 2 - Canevas Cosmique
 -- lien avec croissance
-<img src="/media/"canevas_cosmique_vue_ensemble.JPG>
+
+<br>
+
+<img src="media/canevas_cosmique_vue_ensemble3.JPG" >
 
 ## Équipe
 Jacob Alarie-Brousseau <br>
@@ -10,6 +13,9 @@ Quoc Huy Do <br>
 Mikael Tourangeau
 
 ## L'installation
+<img src="media/canevas_cosmique_vue_ensemble2.JPG" width="500px">
+<img src="media/canevas_cosmique_plan.png" width="500px">
+
 --photo installation
 --photo plan + source
 
