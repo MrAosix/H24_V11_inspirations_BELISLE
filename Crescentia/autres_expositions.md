@@ -3,7 +3,9 @@
 
 <br>
 
-<img src="media/canevas_cosmique_vue_ensemble3.JPG" >
+<img src="media/canevas_cosmique_vue_ensemble2.JPG" >
+
+<br>
 
 ## Équipe
 Jacob Alarie-Brousseau <br>
@@ -12,12 +14,17 @@ Jérémy Cholette <br>
 Quoc Huy Do <br>
 Mikael Tourangeau
 
-## L'installation
-<img src="media/canevas_cosmique_vue_ensemble2.JPG" width="500px">
-<img src="media/canevas_cosmique_plan.png" width="500px">
+<br>
 
---photo installation
---photo plan + source
+## L'installation
+
+| <img src="media/canevas_cosmique_vue_ensemble3.JPG" width="600px"> | <img src="media/canevas_cosmique_plan.png" width="500px"> |
+|--------------------------------------------------------------------|-----------------------------------------------------------|
+
+Photo du plan prise sur le site [TIM Montmorency](https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html)
+
+
+<br>
 
 ## Expérience
 -- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
