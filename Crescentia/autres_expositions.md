@@ -97,7 +97,12 @@ Photo du plan prise sur le site [TIM Montmorency](https://tim-montmorency.com/20
 
 # 5 - Effet-Papillon
 -- lien avec croissance
--- image
+
+<br>
+
+<img src="media/effet_papillon_vue_ensemble2.JPG">
+
+<br>
 
 ## Équipe
 Raphael Dumont <br>
@@ -107,9 +112,17 @@ Alexia (Ryan) Papanikolaou <br>
 Viktor Zhuravlev <br>
 Jasmine Lapierre
 
+<br>
+
 ## L'installation
---photo installation
---photo plan + source
+
+| <img src="media/effet_papillon_vue_ensemble.JPG" width="600px"> | <img src="media/effet_papillon_plan.png" width="700px"> |
+|--------------------------------------------------------------------|-----------------------------------------------------------|
+
+Photo du plan prise sur le site [TIM Montmorency](https://tim-montmorency.com/2024/projets/Effet-Papillon/docs/web/preproduction.html)
+
+
+<br>
 
 ## Expérience
 -- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
