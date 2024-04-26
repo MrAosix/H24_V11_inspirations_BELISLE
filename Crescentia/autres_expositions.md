@@ -15,6 +15,7 @@ Mikael Tourangeau
 
 ## Expérience
 -- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
+-- noter après l'expérimentation et pourquoi la note
 
 <br>
 
@@ -34,6 +35,7 @@ Vincent Desjardins
 
 ## Expérience
 -- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
+-- noter après l'expérimentation et pourquoi la note
 
 <br>
 
@@ -53,6 +55,7 @@ Felix Testa Radovanovic
 
 ## Expérience
 -- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
+-- noter après l'expérimentation et pourquoi la note
 
 <br>
 
@@ -74,5 +77,12 @@ Jasmine Lapierre
 
 ## Expérience
 -- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
+-- noter après l'expérimentation et pourquoi la note
 
 <br>
+<br>
+<br>
+
+## Fiche personel
+-- identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre projet
+-- présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
