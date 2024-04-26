@@ -23,7 +23,6 @@ Mikael Tourangeau
 
 Photo du plan prise sur le site [TIM Montmorency](https://tim-montmorency.com/2024/projets/Canevas-Cosmique/docs/web/preproduction.html)
 
-
 <br>
 
 ## Expérience
@@ -34,7 +33,12 @@ Photo du plan prise sur le site [TIM Montmorency](https://tim-montmorency.com/20
 
 # 3 - Sonalux
 -- lien avec croissance
--- image
+
+<br>
+
+<img src="media/sonalux_vue_ensemble3.JPG">
+
+<br>
 
 ## Équipe
 Antoine Haddad <br>
@@ -42,9 +46,16 @@ Camélie Laprise <br>
 Ghita Alaoui <br>
 Vincent Desjardins
 
+<br>
+
 ## L'installation
---photo installation
---photo plan + source
+
+| <img src="media/sonalux_vue_ensemble2.JPG" width="600px"> | <img src="media/sonalux_plan.png" width="500px"> |
+|--------------------------------------------------------------------|-----------------------------------------------------------|
+
+Photo du plan prise sur le site [TIM Montmorency](https://tim-montmorency.com/2024/projets/Sonalux/docs/web/preproduction.html)
+
+<br>
 
 ## Expérience
 -- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
