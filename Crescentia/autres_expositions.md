@@ -1,5 +1,5 @@
 # 2 - Canevas Cosmique
--- lien avec croissance
+Lien: chaque changement de formes et de déplacements changent et font grandir l'astre au centre de l'écran. Le changement fait référence à la croissance.
 
 <br>
 
@@ -32,7 +32,7 @@ Photo du plan prise sur le site [TIM Montmorency](https://tim-montmorency.com/20
 <br>
 
 # 3 - Sonalux
--- lien avec croissance
+Lien: Toutes les petites modifications apportés à la machine changait le son et la lumière du dispositif. Il y avait aussi des tuyaux qui grandissait plus on augmentait les options. Ce qui fait référence à la croissance.
 
 <br>
 
@@ -64,7 +64,7 @@ Photo du plan prise sur le site [TIM Montmorency](https://tim-montmorency.com/20
 <br>
 
 # 4 - Rhizomatique
--- lien avec croissance
+Lien:  Chaque position de la main donnait une vidéo de la mémoire d'une personne. On pouvait passé de son enfance à l'âge adulte. Donc la croissance de la personne est évidente.
 
 <br>
 
@@ -96,7 +96,7 @@ Photo du plan prise sur le site [TIM Montmorency](https://tim-montmorency.com/20
 <br>
 
 # 5 - Effet-Papillon
--- lien avec croissance
+Lien: chaque action faisait grandir un pomme dans un arbre, comme planter la graine de l'arbre, l'arroser, etc... L'évolution de l'arbre et de la pomme faisait référence à la croissance.
 
 <br>
 
