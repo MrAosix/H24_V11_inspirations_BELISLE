@@ -26,8 +26,11 @@ Photo du plan prise sur le site [TIM Montmorency](https://tim-montmorency.com/20
 <br>
 
 ## Expérience
--- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
--- noter après l'expérimentation et pourquoi la note
+En visionnant la vidéo et en explorant le dispositif présenté sur leur site, l'expérience semblait prometteuse. En tant qu'enthousiaste de l'espace, l'idée de manipuler un astre à l'aide de figurines spéciales m'a semblé particulièrement attrayante. 
+
+<br>
+
+J'ai opté pour le classer en deuxième position, car leur dispositif fonctionnait de manière très efficace et offrait une simplicité d'utilisation appréciable. Esthétiquement plaisant, il était judicieusement positionné sur la table, offrant ainsi une visibilité optimale de l'écran central. De surcroît, étant passionné par l'espace, il est naturel que j'aie accordé des points supplémentaires à cette proposition.
 
 <br>
 
