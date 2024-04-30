@@ -61,8 +61,11 @@ Photo du plan prise sur le site [TIM Montmorency](https://tim-montmorency.com/20
 <br>
 
 ## Expérience
--- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
--- noter après l'expérimentation et pourquoi la note
+En visionnant la vidéo et en explorant le dispositif présenté sur leur site, l'expérience semblait esthétiquement agréable, mais elle semblait également souffrir d'un manque d'interactions supplémentaires pour la rendre véritablement attrayante.
+
+<br>
+
+J'ai choisi de la classer en troisième position, car bien que leur dispositif soit indéniablement charmant, les changements de décors et de musique contrôlables par le connecteur offraient certes un amusement temporaire, mais limité dans le temps. Il s'agit d'une expérience visuellement plaisante, cependant, elle pêche par un manque d'interactivité plus poussée.
 
 <br>
 
