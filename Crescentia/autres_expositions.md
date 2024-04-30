@@ -134,8 +134,11 @@ Photo du plan prise sur le site [TIM Montmorency](https://tim-montmorency.com/20
 <br>
 
 ## Expérience
--- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
--- noter après l'expérimentation et pourquoi la note
+En visionnant la vidéo et en explorant le dispositif présenté sur leur site, l'expérience semblait véritablement captivante, avec l'idée de faire croître un arbre en interagissant avec divers éléments répartis dans la salle, ce qui promettait un divertissement certain. De plus, la complexité apparente du dispositif lui conférait un caractère impressionnant.
+
+<br>
+
+J'ai néanmoins pris la décision de le classer en dernière position, car lors de notre visite, le dispositif rencontrait malheureusement quelques problèmes techniques. En effet, le fond ne fonctionnait pas correctement et l'un des dispositifs était bloqué. Si l'expérience avait pu être appréciée dans son intégralité lors de notre visite, j'aurais certainement attribué une meilleure note. Cependant, la complexité apparente du dispositif semblait être à l'origine de ces problèmes, ce qui a influencé ma décision.
 
 <br>
 <br>
