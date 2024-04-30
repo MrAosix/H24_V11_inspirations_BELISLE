@@ -145,5 +145,10 @@ J'ai néanmoins pris la décision de le classer en dernière position, car lors 
 <br>
 
 ## Fiche personel
--- identifier et indiquer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre projet
+Trois compétences indispensables pour le projet sont les suivantes :  <br>
+
+1. Audio: Chaque projet impliquait l'utilisation de musique ou de sons complexes. Savoir manipuler les sons et la musique améliore considérablement l'expérience utilisateur.
+2. Web: Chacun des projets était présenté sur un site web. L'exploration de ces sites nous permettait de comprendre le cheminement des créateurs ainsi que leurs choix pour le projet final. Il est essentiel d'avoir une esthétique attrayante et une navigation fluide pour rendre l'expérience utilisateur agréable et intuitive.
+3. Installations multimédias: Cette compétence nous permet d'élaborer des projets utilisant la projection vidéo, l'éclairage et le son, éléments indispensables pour la réalisation de projets immersifs. Acquérir de l'expérience dans ce domaine facilitera la planification et l'exécution de notre propre projet final.
+
 -- présenter une technique* ou une composante technologique* qui sera utilisée dans l'un des projets et que vous ne connaissiez pas
