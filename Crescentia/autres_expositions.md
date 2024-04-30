@@ -96,8 +96,11 @@ Photo du plan prise sur le site [TIM Montmorency](https://tim-montmorency.com/20
 <br>
 
 ## Expérience
--- noter ce que vous croyez que vous ressentirez en expérimentant chacune des installations, avec justification
--- noter après l'expérimentation et pourquoi la note
+En visionnant la vidéo et en explorant le dispositif présenté sur leur site, l'expérience semblait visuellement trop simpliste. Bien que l'idée soit intéressante, la perspective de simplement visionner les souvenirs d'autrui risquait de devenir rapidement ennuyeuse.
+
+<br>
+
+J'ai choisi de le classer en quatrième position, car bien que leur dispositif fonctionnât correctement et que la machine fût étonnamment complexe et esthétique, le support visuel des écrans laissait à désirer. Les vidéos étaient difficilement discernables, car trop flous, et le concept lui-même paraissait quelque peu rudimentaire. L'action de placer sa main sur une toile pour présenter un souvenir aléatoire manquait malheureusement d'interactivité intéressantes.
 
 <br>
 
