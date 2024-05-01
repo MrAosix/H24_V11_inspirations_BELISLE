@@ -1,42 +1,39 @@
 # Visite individuelle
 
-<br>
-
-## EISODE, Points de suspension
-
-[![](Media/vue_ensemble_famille.JPG)](https://www.youtube.com/watch?v=xlzep49k4Qs)
+[![](Media/vue_ensemble3.JPG)](https://www.youtube.com/watch?v=xlzep49k4Qs)
 
 <br>
 
 ## Lieu
-| <img src="media/grand_studio_ensemble.JPG" width="600"> | 9634A rue Lajeunesse Montréal |
-|---------------------------------------------------------|-------------------------------|
+| <img src="Media/dehors.JPG" width="1000"> | 9634A rue Lajeunesse Montréal |
+|-------------------------------------------|-------------------------------|
 
 <br>
 
 ## Type d'exposition
-"Crescentia" est une exposition de type temporaire intérieure. On a fait la Visite le 21 Février et 13 Mars 
+"Point de suspension" est une exposition de type temporaire intérieure. On a fait la Visite le 6 mars 2024.
 
 <br>
 
-# Kigo
-<img src="media/kigo_vue_ensemble.JPG" width="800"> 
+# EISODE, Point de suspension
+<img src="Media/vue_ensemble.JPG" width="1500"> 
 
 <br>
 
 ## L'équipe
-Le projet "Kigo" à été conçu en 2024 par: <br>
-<br>
-Érick Ouellette <br>
-William Rathier Mailly <br>
-Gabriel Clerval <br>
-Nicolas St-Martin <br>
-Antoine Dion
+Le projet "Point de suspension" à été conçu en 2024 par Nady Larchet, accompagnée par son équipe: <br>
+
+Vidéo: John Blouin <br>
+Ingénieur électrique: Loup Letac <br>
+Enregistrements et texte: Jonathan Champagne <br>
+Aide technique: Roxana Bouchard
+
+<img src="Media/personnes.JPG" width="1500"> 
 
 <br>
 
 ## Description
-| <img src="media/kigo_vue_ensemble2.JPG" width="1000"> <img src="media/kigo_vue_ensemble3.JPG" width="1000">  | Kigo est un jeu interactif où le joueur doit éviter plusieurs obstacles dans un monde inspiré du style visuel néon rétro, avec une esthétique changeante pour refléter les quatre saisons. |
+| <img src="Media/titre.JPG" width="6000"> <img src="Media/vue_ensemble5.JPG" width="6000">  | "Points de suspension" est une installation sonore et cinétique générative qui examine les violences invisibles présentes au sein des relations humaines. Des communautés d'objets en suspension sont animées par des principes d'attraction et de répulsion magnétiques, et leurs interactions modifient les séquences sonores et vidéo. L'évolution de ces séquences entraîne des ajustements dans les paramètres de l'algorithme qui contrôle les événements électromagnétiques, permettant ainsi à l'œuvre de se développer de manière autonome.|
 |------------------------------------------------------|---------------------|
 
 <br>
