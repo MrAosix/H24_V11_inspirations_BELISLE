@@ -71,7 +71,7 @@ Le dispositif se trouve sur l'un des côtés de l'exposition immense. Celle-ci e
 
 ## Éléments de la mise en exposition
 
-Bien que cela puisse sembler anodin, Eisode a permis à Nady et son équipe d'utiliser un appartement complet pendant 1 mois pour son exposition. Cela incluait l'électricité, les toilettes, l'accès à Internet, ainsi que toutes les commodités habituelles d'un établissement. Sans cette aide, son œuvre n'aurait pas pu être exposée.
+Bien que cela puisse sembler anodin, Le centre des sciences est d'une grande aide pour l'exposition, car l'étage au complet est modulaire, et donc tout est facilement modifiable. Il a aussi un plancher changeable et sans compter l'electricité, l'internet, et plus encore.
 
 <img src="Media/vue_ensemble5.JPG" width="2800"> 
 
