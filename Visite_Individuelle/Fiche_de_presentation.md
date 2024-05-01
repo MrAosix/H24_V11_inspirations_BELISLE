@@ -46,9 +46,9 @@ Aide technique: Roxana Bouchard
 <br>
 
 ## Mise en espace
-La disposition de l'œuvre est relativement simple. Il y a une zone de jeu où le joueur se positionne, et celui-ci est capté par la Kinect, le connectant ainsi au jeu grâce à l'ordinateur qui relie tous les systèmes ensemble. Le jeu est projeté sur le mur par un projecteur monté au plafond, et il est accompagné de sons diffusés par des haut-parleurs suspendus également au plafond.
+Le dispositif se trouve dans un appartement. En entrant, à la droite, il y a une table avec quelques informations et une cuisine contenant une télévision. En entrant dans le salon, nous avons le dispositif accrochés au plafond au milieu de la pièce. Dans le salon, il a aussi des sièges et une deuxième télévision. Au fond de la pièce, il y a une toilette et une salle de rangement.
 
-<img src="Media/plan.png" width="1100"> 
+<img src="Media/plan.JPG" width="1100"> 
 
 Photo prise du site [TIM Montmorency](https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html)
 
