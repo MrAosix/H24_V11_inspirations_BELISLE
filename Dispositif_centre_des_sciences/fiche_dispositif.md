@@ -41,9 +41,9 @@ Le dispositif "On fait de l'air" à été conçu par l'équipe du Centre des sci
 <br>
 
 ## Mise en espace
-Le dispositif se trouve dans un appartement. En entrant, à la droite, il y a une table avec quelques informations et une cuisine contenant une télévision. En entrant dans le salon, nous avons le dispositif accrochés au plafond au milieu de la pièce. Dans le salon, il a aussi des sièges et une deuxième télévision. Au fond de la pièce, il y a une toilette et une salle de rangement.
+Le dispositif se trouve sur l'un des côtés de l'exposition immense. Celle-ci est constituée de l'arbre central, qui contrôle les quatre dispositifs à air à l'intérieur de celui-ci. Les quatre pompes qui commandent ces dispositifs sont disposées autour de l'arbre, légèrement éloignées pour permettre un espace suffisant. De plus, plusieurs autres dispositifs sont également présents autour de l'arbre.
 
-<img src="Media/plan.JPG" width="1100"> 
+<img src="Media/plan.jpg" width="1100"> 
 
 <br>
 
