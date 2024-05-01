@@ -1,4 +1,4 @@
-Intro:
+## Intro:
 
 Présentation d'un oeuvre durant un visite individuelle et comment cela c'est passé. <br>
 Présentation des points durant le développement: <br>
@@ -11,7 +11,7 @@ Lien avec les autres oeuvres.
 
 <br>
 
-Développement:
+## Développement:
 
 Titre: Point de suspension <br>
 Artiste: Nady Larchet <br>
@@ -30,5 +30,24 @@ Type contemplative <br>
 Mise en espace: appartement et les pièces importantes, salon, cuisine, toilettes. <br>
 Composantes: fils, télévisions, haut-parleurs, tuiles, sièges, lumières de l'appart, l'électroniques <br>
 Éléments: Description de pourquoi l'appartement donné par Eisode est important, (électricité, l'internet, etc...)
+
+Expérience: description du contexte du visiteur, comment on se place. le manque d'intéractivité. <br>
+Appréciation: Très mauvaise, manque d'intéractivité, longue, problèmes techniques, manque visuel, étrange... <br>
+
+Lien avec Jeremy Shaw: Son très important, oeuvre completement suspendu. Manque d'intéractivité.
+
+<br>
+
+## Conclusion
+
+Retour sur:
+Informations importantes sur l'oeuvre <br>
+Description détaillée de l'oeuvre <br>
+Expérience vécue <br>
+Appréciation <br>
+Lien avec les autres oeuvres.
+
+Parler des négatifs qui je ne vais pas utilisé pour mes projets personels. Comme le manque d'intéractivitée, la longueur de présentation et les problèmes techniques.
+Plus me fier au projet du centre des sciences, qui est bien le contraire.
 
 
