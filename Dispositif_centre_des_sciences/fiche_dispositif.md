@@ -81,7 +81,7 @@ Bien que cela puisse sembler anodin, le Centre des sciences est d'une grande aid
 
 L'œuvre invite les jeunes et les parents à utiliser leur force et leur endurance pour faire croître une lumière dans un arbre en pompant sur un dispositif situé devant celui-ci. Avec le temps et la patience, la lumière atteint sa destination et active un dispositif qui fait tourner un ventilateur. Chaque pompe déclenche le mouvement d'un objet différent, offrant ainsi une expérience amusante pour observer les réactions de chaque objet au vent. L'installation est interactive, car elle ne se met pas en mouvement sans l'aide d'une personne qui actionne le dispositif.
 
-[![](Media/vue_ensemble6.JPG)](https://www.youtube.com/watch?v=xlzep49k4Qs)
+[![](Media/vue_ensemble4.JPG)](https://www.youtube.com/watch?v=W7ViAjW4soM)
 
 <br>
 
