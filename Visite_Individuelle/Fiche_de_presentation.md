@@ -72,9 +72,10 @@ Le dispositif se trouve dans un appartement. En entrant, à la droite, il y a un
 <br>
 
 ## Éléments de la mise en exposition
-Bien que cela puisse sembler anodin, le collège a été d'une aide précieuse pour le projet. Plusieurs exemples peuvent être cités à cet égard : le prêt du grand studio ainsi que de tous les équipements nécessaires qui l'accompagnent, l'accès à un internet puissant et à l'électricité dans l'ensemble du studio, un mur blanc idéal pour la projection, la facilité de rangement des câbles et de l'installation grâce à la modularité du grand studio, ainsi que la présence des lumières d'ambiance déjà intégrées dans le studio. Et bien d'autres encore !
 
-<img src="media/kigo_technique3.JPG" width="2800"> 
+Bien que cela puisse sembler anodin, Eisode a permis à Nady et son équipe d'utiliser un appartement complet pendant 1 mois pour son exposition. Cela incluait l'électricité, les toilettes, l'accès à Internet, ainsi que toutes les commodités habituelles d'un établissement. Sans cette aide, son œuvre n'aurait pas pu être exposée.
+
+<img src="Media/vue_ensemble5.JPG" width="2800"> 
 
 <br>
 
