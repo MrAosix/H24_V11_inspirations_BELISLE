@@ -39,16 +39,16 @@ Aide technique: Roxana Bouchard
 <br>
 
 ## Type d'installation
-Kigo est une installation interactive où les participants interagissent avec le monde du jeu en tentant d'éviter des obstacles. Le mouvement des participants est capturé à l'aide d'une technologie vidéo, ce qui rend l'œuvre interactive.
+"Point de suspension" me semble, personnellement, être une exposition de type contemplative, car l'utilisateur ne peut pas réellement interagir avec elle. On se contente d'observer et d'écouter des cuillères qui s'entrechoquent.
 
-[![](media/kigo_experience.PNG)](https://www.youtube.com/watch?v=QHVQL7Vt-b4)
+[![](Media/vue_ensemble2.JPG)](https://www.youtube.com/watch?v=xlzep49k4Qs)
 
 <br>
 
 ## Mise en espace
 La disposition de l'œuvre est relativement simple. Il y a une zone de jeu où le joueur se positionne, et celui-ci est capté par la Kinect, le connectant ainsi au jeu grâce à l'ordinateur qui relie tous les systèmes ensemble. Le jeu est projeté sur le mur par un projecteur monté au plafond, et il est accompagné de sons diffusés par des haut-parleurs suspendus également au plafond.
 
-<img src="media/kigo_plan.png" width="1100"> 
+<img src="Media/plan.png" width="1100"> 
 
 Photo prise du site [TIM Montmorency](https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html)
 
