@@ -71,14 +71,15 @@ Le dispositif se trouve sur l'un des côtés de l'exposition immense. Celle-ci e
 
 ## Éléments de la mise en exposition
 
-Bien que cela puisse sembler anodin, Le centre des sciences est d'une grande aide pour l'exposition, car l'étage au complet est modulaire, et donc tout est facilement modifiable. Il a aussi un plancher changeable et sans compter l'electricité, l'internet, et plus encore.
+Bien que cela puisse sembler anodin, le Centre des sciences est d'une grande aide pour l'exposition, car l'ensemble de l'étage est modulaire, ce qui facilite les modifications. De plus, il dispose d'un plancher interchangeable et fournit également l'électricité, l'accès à Internet, et bien d'autres commodités.
 
 <img src="Media/vue_ensemble5.JPG" width="2800"> 
 
 <br>
 
 ## Expérience vécue
-L'œuvre nous invite à observer des cuillères se déplacer de manière intermittente pendant une heure, accompagnées d'une musique inhabituelle. Nous sommes libres de choisir de rester assis ou debout, seul dans la pièce. En l'absence d'interaction, l'œuvre demeure statique et nous ne pouvons pas y participer activement pendant toute la durée. Cela était très ennuyeux, car il y a peu d'activités disponibles pour occuper notre attention.
+
+L'œuvre invite les jeunes et les parents à utiliser leur force et leur endurance pour faire croître une lumière dans un arbre en pompant sur un dispositif situé devant celui-ci. Avec le temps et la patience, la lumière atteint sa destination et active un dispositif qui fait tourner un ventilateur. Chaque pompe déclenche le mouvement d'un objet différent, offrant ainsi une expérience amusante pour observer les réactions de chaque objet au vent. L'installation est interactive, car elle ne se met pas en mouvement sans l'aide d'une personne qui actionne le dispositif.
 
 [![](Media/vue_ensemble6.JPG)](https://www.youtube.com/watch?v=xlzep49k4Qs)
 
