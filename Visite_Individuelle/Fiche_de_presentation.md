@@ -87,6 +87,6 @@ L'œuvre nous invite à observer des cuillères se déplacer de manière intermi
 <br>
 
 # Appréciation
-Pour être franc, je n'ai que des éloges à formuler à l'égard de Kigo. De bout en bout, cette œuvre est captivante grâce à son impressionnante interactivité, et elle nous pousse même à repousser nos limites pour figurer en haut du classement. Elle offre une rejouabilité infinie et procure toujours un sentiment d'accomplissement lorsque l'on bat son propre record. De plus, elle évoque habilement "Crescentia" par le biais de la progression de la force du joueur dans ce jeu interactif. Visuellement simple, le jeu est cependant d'une grande beauté et d'une efficacité indéniable.
+Pour être franc, l'œuvre était extrêmement décevante. Elle manquait cruellement d'interactivité et s'est avérée plutôt ennuyeuse à regarder. De plus, nous étions contraints de rester assis pendant une heure entière, à contempler des cuillères se heurter de manière insignifiante, accompagnées d'une musique étrange, voire même inquiétante. Pour aggraver les choses, les vidéos sur l'écran ne fonctionnaient pas, ce qui signifie que l'évolution promise de l'œuvre n'a jamais eu lieu, et le dispositif est resté inchangé tout au long de la séance. Malheureusement, je ne peux exprimer que des sentiments négatifs à propos de cette expérience. Non seulement elle m'a coûté cher, mais ma famille et moi-même avons été profondément déçus.
 
-<img src="media/kigo_vue_ensemble.JPG" width="2800"> 
+<img src="Media/cuillere.JPG" width="2800"> 
