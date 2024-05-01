@@ -49,22 +49,22 @@ Le dispositif se trouve sur l'un des côtés de l'exposition immense. Celle-ci e
 
 ## Composantes et techniques
 
-| <img src="Media/technique.JPG" width="1400"> | Pour débuter, l'utilisateur prend une des 4 pompes pour commencer la machine. Celui-ci doit la pomper durant toute l'expérience, car sinon les lumières ne s'avancent plus, et même commencent à reculer |
+| <img src="Media/technique.JPG" width="2200"> | Pour débuter, l'utilisateur prend une des 4 pompes pour commencer la machine. Celui-ci doit la pomper durant toute l'expérience, car sinon les lumières ne s'avancent plus, et même commencent à reculer |
 |----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 
-| <img src="Media/technique2.JPG" width="1700"> | Avec l'activation des pompes, une longue bande de lumière LED s'activent et du bas vers le haut s'allume avec la force et la vitesse de pompage de l'utilisateur. |
+| <img src="Media/technique2.JPG" width="1500"> | Avec l'activation des pompes, une longue bande de lumière LED s'activent et du bas vers le haut s'allume avec la force et la vitesse de pompage de l'utilisateur. |
 |----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-| <img src="Media/partie1.JPG" width="1400"> | Quand la lumière arrive à la fin du premier dispositif, celui-ci active un ventilateur qui fait bouger un premier objet. |
+| <img src="Media/partie1.JPG" width="1050"> | Quand la lumière arrive à la fin du premier dispositif, celui-ci active un ventilateur qui fait bouger un premier objet. |
 |----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 
-| <img src="Media/partie2.JPG" width="900"> | sur une autre pompe, quand la lumière arrive à la fin du dispositif, celui-ci active un autre ventilateur qui fait bouger un deuxième objet. |
+| <img src="Media/partie2.JPG" width="1300"> | sur une autre pompe, quand la lumière arrive à la fin du dispositif, celui-ci active un autre ventilateur qui fait bouger un deuxième objet. |
 |----------------------------------------------------|--------------------------------------------------------------------------------------|
 
-| <img src="Media/partie3.JPG" width="1000"> | sur la troisième pompe, quand la lumière arrive à la fin du dispositif, celui-ci active un autre ventilateur qui fait bouger un troisième objet. |
+| <img src="Media/partie3.JPG" width="1300"> | sur la troisième pompe, quand la lumière arrive à la fin du dispositif, celui-ci active un autre ventilateur qui fait bouger un troisième objet. |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------|
 
-| <img src="Media/partie4.JPG" width="1000"> | sur la dernière pompe, quand la lumière arrive à la fin du dispositif, celui-ci active un dernier ventilateur qui fait bouger le dernier objet. |
+| <img src="Media/partie4.JPG" width="1300"> | sur la dernière pompe, quand la lumière arrive à la fin du dispositif, celui-ci active un dernier ventilateur qui fait bouger le dernier objet. |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------|
 
 <br>
