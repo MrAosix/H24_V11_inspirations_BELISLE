@@ -1,47 +1,42 @@
 # Visite Centre des Sciences de Montréal - Explore
 
-[![](Media/vue_ensemble3.JPG)](https://www.youtube.com/watch?v=xlzep49k4Qs)
+[![](Media/affiche2.png)](https://www.youtube.com/watch?v=xlzep49k4Qs)
 
 <br>
 
 ## Lieu
-| <img src="Media/dehors.JPG" width="1000"> | 9634A rue Lajeunesse Montréal |
+| <img src="Media/moi_musee.JPG" width="1000"> | 2 rue De la commune, Montréal |
 |-------------------------------------------|-------------------------------|
 
 <br>
 
 ## Type d'exposition
-"Point de suspension" est une exposition de type temporaire intérieure. On a fait la Visite le 6 mars 2024.
+"Explore" est une exposition de type permanente intérieure. On a fait la Visite le 10 avril 2024.
 
 <br>
 
-# EISODE, Point de suspension
-<img src="Media/vue_ensemble.JPG" width="1500"> 
+# On fait de l'air
+<img src="Media/vue_ensemble4.JPG" width="1500"> 
 
 <br>
 
 ## L'équipe
-Le projet "Point de suspension" à été conçu en 2024 par Nady Larchet, accompagnée par son équipe: <br>
+Le dispositif "On fait de l'air" à été conçu par l'équipe du Centre des sciences de Montréal: <br>
 
-Vidéo: John Blouin <br>
-Ingénieur électrique: Loup Letac <br>
-Enregistrements et texte: Jonathan Champagne <br>
-Aide technique: Roxana Bouchard
-
-<img src="Media/personnes.JPG" width="1500"> 
+<img src="Media/equipe.png" width="1500"> 
 
 <br>
 
 ## Description
-| <img src="Media/titre.JPG" width="6000"> <img src="Media/vue_ensemble5.JPG" width="6000">  | "Points de suspension" est une installation sonore et cinétique générative qui examine les violences invisibles présentes au sein des relations humaines. Des communautés d'objets en suspension sont animées par des principes d'attraction et de répulsion magnétiques, et leurs interactions modifient les séquences sonores et vidéo. L'évolution de ces séquences entraîne des ajustements dans les paramètres de l'algorithme qui contrôle les événements électromagnétiques, permettant ainsi à l'œuvre de se développer de manière autonome.|
+| <img src="Media/affiche.JPG" width="60000"> | L'Installation "On fait de l'air" permet aux visiteurs de pomper de l'air dans une machine, ce qui entraîne la montée de la lumière à travers des tubes transparents jusqu'à ce qu'elle atteigne son point final et active un ventilateur. Ce dernier, à son tour, déclenche le mouvement d'un des quatre modules de l'arbre. |
 |------------------------------------------------------|---------------------|
 
 <br>
 
 ## Type d'installation
-"Point de suspension" me semble, personnellement, être une exposition de type contemplative, car l'utilisateur ne peut pas réellement interagir avec elle. On se contente d'observer et d'écouter des cuillères qui s'entrechoquent.
+"On fait de l'air" est une exposition de type interactive, car l'utilisateur interagie avec elle en pompant de l'air dans le dispositif.
 
-[![](Media/vue_ensemble2.JPG)](https://www.youtube.com/watch?v=xlzep49k4Qs)
+[![](Media/vue_ensemble2.JPG)](https://www.youtube.com/watch?v=W7ViAjW4soM)
 
 <br>
 
