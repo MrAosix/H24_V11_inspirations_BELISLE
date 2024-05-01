@@ -50,26 +50,24 @@ Le dispositif se trouve dans un appartement. En entrant, à la droite, il y a un
 
 <img src="Media/plan.JPG" width="1100"> 
 
-Photo prise du site [TIM Montmorency](https://tim-montmorency.com/2024/projets/Kigo/docs/web/preproduction.html)
-
 <br>
 
 ## Composantes et techniques
 
-| <img src="media/kigo_technique4.JPG" width="2800"> | Pour débuter, l'équipe a opté pour l'utilisation d'un ruban adhésif orange très visible sur le sol afin de faciliter la délimitation de la zone de jeu, permettant ainsi une meilleure visibilité. Cela garantit également une position optimale pour le joueur. |
-|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="Media/technique_siege.JPG" width="1400"> | Pour débuter, on peut s'assoir sur des sièges pour observer l'oeuvre. Rendant l'oeuvre confortable et plus facile a apprécier |
+|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 
-| <img src="media/kigo_technique2.JPG" width="1000"> | Ensuite, un capteur Kinect est positionné au sol, orienté vers la zone de jeu, pour capturer aisément les mouvements du joueur. |
-|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| <img src="Media/tecnique_dispositif.JPG" width="1700"> | Sur le plafond se situe une tuile de plastique ou y est pendu diverses cuillères. Dessus la tuile se trouve tout les composantes techniques du projets. |
+|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-| <img src="media/kigo_technique5.JPG" width="1400"> | Sur l'interface du jeu, une zone située en bas de l'écran indique la détection des joueurs, assurant ainsi que le joueur est correctement positionné et bien détecté par le Kinect. |
-|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="Media/tecnique_speaker.JPG" width="1400"> | L'un de ces composantes est un haut-parleur situé au milieu, permetant au son de sortir un peu partout dans l'oeuvre. |
+|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 
-| <img src="media/kigo__technique.JPG" width="1200"> | Tous les composants du jeu ainsi que les dispositifs essentiels sont connectés à deux ordinateurs, chargés de superviser le bon déroulement de l'exposition. |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="Media/technique_fils.JPG" width="900"> | L'oeuvre, à l'aide de plusieurs fils, connecte aussi à diverses choses dans la pièce. |
+|----------------------------------------------------|--------------------------------------------------------------------------------------|
 
-| <img src="media/kigo_vue_ensemble2.JPG" width="1200"> | Enfin, un projecteur, stratégiquement installé au plafond, projette l'image du jeu sur le mur du studio. Ce projecteur est également relié à l'ordinateur. |
-|-------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="Media/technique_ecran.JPG" width="1000"> | L'une d'elle sont les 2 télévisions qui montre un mur, dont le son de l'appareil modifie la vidéo |
+|-------------------------------------------------------|------------------------------------------------------------------------------------------------|
 
 <br>
 
