@@ -86,6 +86,6 @@ L'œuvre invite les jeunes et les parents à utiliser leur force et leur enduran
 <br>
 
 # Appréciation
-Pour être franc, l'œuvre était extrêmement décevante. Elle manquait cruellement d'interactivité et s'est avérée plutôt ennuyeuse à regarder. De plus, nous étions contraints de rester assis pendant une heure entière, à contempler des cuillères se heurter de manière insignifiante, accompagnées d'une musique étrange, voire même inquiétante. Pour aggraver les choses, les vidéos sur l'écran ne fonctionnaient pas, ce qui signifie que l'évolution promise de l'œuvre n'a jamais eu lieu, et le dispositif est resté inchangé tout au long de la séance. Malheureusement, je ne peux exprimer que des sentiments négatifs à propos de cette expérience. Non seulement elle m'a coûté cher, mais ma famille et moi-même avons été profondément déçus.
+L'œuvre était agréablement surprenante. Elle était simple, mais procurait un sentiment de récompense lorsque l'on parvenait à compléter la ligne de lumière. L'arbre était impressionnant par sa taille, et le dispositif était également très esthétique, sans aucun fil ni objet technique visible, ce qui rendait l'œuvre à la fois belle et sécuritaire. Il était également réjouissant de voir les sourires des enfants et leur enthousiasme à faire bouger les lumières. L'exposition dans son ensemble était impressionnante et m'incite à y retourner avec plus de temps pour essayer tous les dispositifs.
 
-<img src="Media/cuillere.JPG" width="2800"> 
+<img src="Media/groupe.JPG" width="2800"> 
