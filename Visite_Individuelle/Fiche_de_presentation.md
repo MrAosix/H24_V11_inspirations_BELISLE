@@ -80,9 +80,9 @@ Bien que cela puisse sembler anodin, Eisode a permis à Nady et son équipe d'ut
 <br>
 
 ## Expérience vécue
-Comme mentionné précédemment, le public joue un rôle crucial dans cette exposition, donnant vie au projet grâce à son interaction. Au début, le joueur peut éprouver des difficultés à esquiver les obstacles, mais avec le temps, il s'améliore et sa réussite augmente considérablement grâce à la pratique. Cela rend l'expérience agréable et procure un sentiment d'accomplissement au joueur.
+L'œuvre nous invite à observer des cuillères se déplacer de manière intermittente pendant une heure, accompagnées d'une musique inhabituelle. Nous sommes libres de choisir de rester assis ou debout, seul dans la pièce. En l'absence d'interaction, l'œuvre demeure statique et nous ne pouvons pas y participer activement pendant toute la durée. Cela était très ennuyeux, car il y a peu d'activités disponibles pour occuper notre attention.
 
-[![](media/kigo_experience.PNG)](https://www.youtube.com/watch?v=QHVQL7Vt-b4)
+[![](Media/vue_ensemble6.JPG)](https://www.youtube.com/watch?v=xlzep49k4Qs)
 
 <br>
 
