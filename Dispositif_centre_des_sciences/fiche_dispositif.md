@@ -1,1 +1,92 @@
+# Visite Centre des Sciences de Montréal - Explore
 
+[![](Media/vue_ensemble3.JPG)](https://www.youtube.com/watch?v=xlzep49k4Qs)
+
+<br>
+
+## Lieu
+| <img src="Media/dehors.JPG" width="1000"> | 9634A rue Lajeunesse Montréal |
+|-------------------------------------------|-------------------------------|
+
+<br>
+
+## Type d'exposition
+"Point de suspension" est une exposition de type temporaire intérieure. On a fait la Visite le 6 mars 2024.
+
+<br>
+
+# EISODE, Point de suspension
+<img src="Media/vue_ensemble.JPG" width="1500"> 
+
+<br>
+
+## L'équipe
+Le projet "Point de suspension" à été conçu en 2024 par Nady Larchet, accompagnée par son équipe: <br>
+
+Vidéo: John Blouin <br>
+Ingénieur électrique: Loup Letac <br>
+Enregistrements et texte: Jonathan Champagne <br>
+Aide technique: Roxana Bouchard
+
+<img src="Media/personnes.JPG" width="1500"> 
+
+<br>
+
+## Description
+| <img src="Media/titre.JPG" width="6000"> <img src="Media/vue_ensemble5.JPG" width="6000">  | "Points de suspension" est une installation sonore et cinétique générative qui examine les violences invisibles présentes au sein des relations humaines. Des communautés d'objets en suspension sont animées par des principes d'attraction et de répulsion magnétiques, et leurs interactions modifient les séquences sonores et vidéo. L'évolution de ces séquences entraîne des ajustements dans les paramètres de l'algorithme qui contrôle les événements électromagnétiques, permettant ainsi à l'œuvre de se développer de manière autonome.|
+|------------------------------------------------------|---------------------|
+
+<br>
+
+## Type d'installation
+"Point de suspension" me semble, personnellement, être une exposition de type contemplative, car l'utilisateur ne peut pas réellement interagir avec elle. On se contente d'observer et d'écouter des cuillères qui s'entrechoquent.
+
+[![](Media/vue_ensemble2.JPG)](https://www.youtube.com/watch?v=xlzep49k4Qs)
+
+<br>
+
+## Mise en espace
+Le dispositif se trouve dans un appartement. En entrant, à la droite, il y a une table avec quelques informations et une cuisine contenant une télévision. En entrant dans le salon, nous avons le dispositif accrochés au plafond au milieu de la pièce. Dans le salon, il a aussi des sièges et une deuxième télévision. Au fond de la pièce, il y a une toilette et une salle de rangement.
+
+<img src="Media/plan.JPG" width="1100"> 
+
+<br>
+
+## Composantes et techniques
+
+| <img src="Media/technique_siege.JPG" width="1400"> | Pour débuter, on peut s'assoir sur des sièges pour observer l'oeuvre. Rendant l'oeuvre confortable et plus facile a apprécier |
+|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+
+| <img src="Media/tecnique_dispositif.JPG" width="1700"> | Sur le plafond se situe une tuile de plastique ou y est pendu diverses cuillères. Dessus la tuile se trouve tout les composantes techniques du projets. |
+|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| <img src="Media/tecnique_speaker.JPG" width="1400"> | L'un de ces composantes est un haut-parleur situé au milieu, permetant au son de sortir un peu partout dans l'oeuvre. |
+|----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+
+| <img src="Media/technique_fils.JPG" width="900"> | L'oeuvre, à l'aide de plusieurs fils, connecte aussi à diverses choses dans la pièce. |
+|----------------------------------------------------|--------------------------------------------------------------------------------------|
+
+| <img src="Media/technique_ecran.JPG" width="1000"> | L'une d'elle sont les 2 télévisions qui montre un mur, dont le son de l'appareil modifie la vidéo |
+|-------------------------------------------------------|------------------------------------------------------------------------------------------------|
+
+<br>
+
+## Éléments de la mise en exposition
+
+Bien que cela puisse sembler anodin, Eisode a permis à Nady et son équipe d'utiliser un appartement complet pendant 1 mois pour son exposition. Cela incluait l'électricité, les toilettes, l'accès à Internet, ainsi que toutes les commodités habituelles d'un établissement. Sans cette aide, son œuvre n'aurait pas pu être exposée.
+
+<img src="Media/vue_ensemble5.JPG" width="2800"> 
+
+<br>
+
+## Expérience vécue
+L'œuvre nous invite à observer des cuillères se déplacer de manière intermittente pendant une heure, accompagnées d'une musique inhabituelle. Nous sommes libres de choisir de rester assis ou debout, seul dans la pièce. En l'absence d'interaction, l'œuvre demeure statique et nous ne pouvons pas y participer activement pendant toute la durée. Cela était très ennuyeux, car il y a peu d'activités disponibles pour occuper notre attention.
+
+[![](Media/vue_ensemble6.JPG)](https://www.youtube.com/watch?v=xlzep49k4Qs)
+
+<br>
+
+# Appréciation
+Pour être franc, l'œuvre était extrêmement décevante. Elle manquait cruellement d'interactivité et s'est avérée plutôt ennuyeuse à regarder. De plus, nous étions contraints de rester assis pendant une heure entière, à contempler des cuillères se heurter de manière insignifiante, accompagnées d'une musique étrange, voire même inquiétante. Pour aggraver les choses, les vidéos sur l'écran ne fonctionnaient pas, ce qui signifie que l'évolution promise de l'œuvre n'a jamais eu lieu, et le dispositif est resté inchangé tout au long de la séance. Malheureusement, je ne peux exprimer que des sentiments négatifs à propos de cette expérience. Non seulement elle m'a coûté cher, mais ma famille et moi-même avons été profondément déçus.
+
+<img src="Media/cuillere.JPG" width="2800"> 
