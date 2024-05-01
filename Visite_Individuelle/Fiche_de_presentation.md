@@ -4,8 +4,8 @@
 <br>
 
 ## Lieu
-| <img src="media/grand_studio_ensemble.JPG" width="600"> | Grand studio, Collège Montmorency |
-|---------------------------------------------------------|-----------------------------------|
+| <img src="media/grand_studio_ensemble.JPG" width="600"> | 9634A rue Lajeunesse Montréal |
+|---------------------------------------------------------|-------------------------------|
 
 <br>
 
